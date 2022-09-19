@@ -1,0 +1,125 @@
+
+body {
+    margin: 0; padding: 0;
+    background-color: #141519;
+    box-sizing: border-box;
+}
+
+main {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 400px;
+    height: 400px;
+    background-color:#212832;
+    border-radius: 20px;
+}
+
+#card_start {
+    padding: 0px 20px;
+}
+
+.icon_star {
+    background-color: #262f38;
+    border: 1px solid #262f38;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+
+
+.card_title {
+    color: hsl(0, 0%, 100%);
+    margin-top: 30px;
+}
+
+.card_text {
+    color:  hsl(216, 12%, 54%);
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+
+.rating button{
+    background-color:#262f38;
+    border: none;
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+    border-radius: 50%;
+    color: #7d8695;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.rating button:hover {
+    background-color:hsl(25, 97%, 53%) ;
+}
+
+
+button[type="submit"] {
+    background-color: hsl(25, 97%, 53%);
+    border: none;
+    width: 100%;
+    padding: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+button[type="submit"]:active {
+    background-color:  hsl(0, 0%, 100%);
+    color: hsl(25, 97%, 53%);
+}
+
+
+#card_thanks {
+    text-align: center;
+    padding: 0 40px;
+    width: 320px;
+}
+
+.icon_thanks {
+    margin-top: 40px;
+}
+
+.rating_selected {
+    margin-top: 20px;
+    background-color: #262f38;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 10px;
+    
+}
+
+.rating_selected p {
+    color: hsl(25, 97%, 53%);
+    padding: 5px;
+}
+
+.card_text_thanks h2{
+    color: hsl(0, 0%, 100%);
+}
+
+.card_text_thanks p{
+    color: hsl(216, 12%, 54%);
+}
+
+
+.active {
+    background-color: #7d8695 !important;
+    color: hsl(0, 0%, 100%) !important;
+}
+.hidden {
+    display: none;
+}
