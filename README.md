@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (//https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub/interactive-rating-html-css-and-js-vsZHMTM5TG)
+- Live Site URL:(https://interactive-rating-chall-frontend.netlify.app/)
 
 
 
@@ -48,7 +48,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Nantenaina](https://interactive-rating-chall-frontend.netlify.app/)
 - Frontend Mentor - [@Nathanwalker28](https://www.frontendmentor.io/profile/Nathanwalker28)
 
 
