@@ -120,6 +120,3 @@ button[type="submit"]:active {
     background-color: #7d8695 !important;
     color: hsl(0, 0%, 100%) !important;
 }
-.hidden {
-    display: none;
-}

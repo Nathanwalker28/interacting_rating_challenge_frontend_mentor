@@ -11,6 +11,8 @@ $(document).ready(function() {
         $('#rating_number').text($(this).text());
     })
 
+    
+
     $('#btn_submit').on('click', function() {
         $('#card_thanks').show();
         $('#card_start').hide();

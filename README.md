@@ -11,7 +11,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Author](#author)
 
 
-
 ## Overview
 
 ### The challenge
@@ -44,12 +43,7 @@ Users should be able to:
 - Flexbox
 - Javascript DOM, Event
 
-
-
 ## Author
 
 - Website - [Nantenaina](https://interactive-rating-chall-frontend.netlify.app/)
 - Frontend Mentor - [@Nathanwalker28](https://www.frontendmentor.io/profile/Nathanwalker28)
-
-
-
